@@ -1,4 +1,4 @@
-# WinMicrophone
+# ![f0be838d2f6343d8811473bfa80bb67b_1](https://github.com/BeardedManZhao/WinMicrophone/assets/113756063/431aa4f6-4959-489c-a9a7-85d98e431731) WinMicrophone
 
 Windows 系统的 麦克风设备（启用/禁用）切换驱动！它是小巧且快速的，它能够自动的检测并切换麦克风的情况。
 
