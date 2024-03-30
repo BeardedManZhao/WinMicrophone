@@ -22,3 +22,21 @@ increase the convenience of microphone operation in Windows, freeing up your han
 | WinMicrophone.exe    | yes    | 用于进行 Windows 麦克风状态切换的程序                                   |
 | downloadDLL-wget.bat | no     | 当 `WinMicrophone.exe` 的启动出现 dll 缺失的问题时，请双击此脚本等待 dll 下载    |
 | downloadDLL-curl.bat | no     | 当 `downloadDLL-wget.bat` 的工作出现错误时，您可以双击此脚本尝试下载，这是一个备用下载方案 |
+
+## 安装教程
+
+### 解压软件包
+
+首先我们可以将从网站中[下载下来的安装包](https://github.com/BeardedManZhao/WinMicrophone/releases/download/1.0.0/WinMicrophone-Windows64.zip)，进行解压，解压之后，我们可以尝试双击启动一下，看看能否正常工作
+
+![image](https://github.com/BeardedManZhao/WinMicrophone/assets/113756063/8a244c52-0be3-4f0b-b9dc-59102ca92e59) ![image](https://github.com/BeardedManZhao/WinMicrophone/assets/113756063/4830a59d-0591-4aeb-b8f8-3bfab4f08a3a)
+
+如果出现了上面展示的错误，请您点击目录中的 `downloadDLL-wget.bat` 或者 `downloadDLL-curl.bat` 文件进行基础环境的自动部署，您无需担心，它只会操作在您的 WinMicrophone 安装目录中，点击之后会出现下面的情况！
+> 在这里我们点击的是 `downloadDLL-wget.bat` 另一个效果也差不多！ 这是在自动的下载需要的库文件，下载完毕之后，就会展示为下面的样子！
+![image](https://github.com/BeardedManZhao/WinMicrophone/assets/113756063/d116e88c-cdd6-4ed4-8558-fbec91042e88)
+
+
+### 点击运行程序
+点击程序之后，它会自动的检查并切换您的麦克风设备状态，这个设备如果是禁用情况，则会自动启用麦克风，如果是启用情况，则会自动的禁用麦克风！
+
+![image](https://github.com/BeardedManZhao/WinMicrophone/assets/113756063/83ee7d43-9745-4b65-84f0-d675802a7a1c)
