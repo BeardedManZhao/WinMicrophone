@@ -1,0 +1,12 @@
+# ninja log v5
+2	523	7334868670394719	CMakeFiles/WinMicrophone.dir/main.cpp.obj	efe9d2953e6a3537
+0	317	7334871503496707	build.ninja	da750911d6ce5264
+2	590	7334866046027483	CMakeFiles/WinMicrophone.dir/Microphone.cpp.obj	a743d864dc931cbb
+1154	1255	7334850151032883	WinMicrophone.exe	87f5d4b048f435c0
+0	6	0	clean	d72ed7f9fdf7ffe
+1	8	0	clean	d72ed7f9fdf7ffe
+7	81	7334871518305858	CMakeFiles/WinMicrophone.dir/logo.rc.obj	e1dd007da680278b
+5	1016	7334871527653283	CMakeFiles/WinMicrophone.dir/Microphone.cpp.obj	9e131e5a0b02c27d
+2	1066	7334871528083826	CMakeFiles/WinMicrophone.dir/main.cpp.obj	f7c85ab22b462895
+1066	1163	7334871529073806	WinMicrophone.exe	8db84768089586d0
+0	8442	0	clean	d72ed7f9fdf7ffe

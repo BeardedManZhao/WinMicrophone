@@ -1,0 +1,3 @@
+G:/MyGithub/WinMicrophone/cmake-build-debug/CMakeFiles/WinMicrophone.dir
+G:/MyGithub/WinMicrophone/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/MyGithub/WinMicrophone/cmake-build-debug/CMakeFiles/rebuild_cache.dir
