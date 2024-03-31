@@ -76,7 +76,6 @@ build CMakeFiles/WinMicrophone.dir/logo.rc.obj: RC_COMPILER__WinMicrophone_Debug
 
 build WinMicrophone.exe: CXX_EXECUTABLE_LINKER__WinMicrophone_Debug CMakeFiles/WinMicrophone.dir/main.cpp.obj CMakeFiles/WinMicrophone.dir/Microphone.cpp.obj CMakeFiles/WinMicrophone.dir/logo.rc.obj
   FLAGS = -g
-  LINK_FLAGS = -mwindows
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\WinMicrophone.dir
   POST_BUILD = cd .

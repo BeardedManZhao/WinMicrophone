@@ -3,7 +3,6 @@
 //
 
 #include <windows.h>
-#include <cstdio>
 #include "string"
 #include <mmdeviceapi.h>
 #include <endpointvolume.h>
